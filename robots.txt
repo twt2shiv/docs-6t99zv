@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-ps7zj2.radarsatu88.shop/sitemap.xml
